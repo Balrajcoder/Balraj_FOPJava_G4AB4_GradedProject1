@@ -1,13 +1,11 @@
+package com.learning;
+
 public class SuperDepartment {
-    String departmentName;
-    public void setDepartmentName() {
-        this.departmentName = "Super Department";
-    }
 
     public String departmentName()
     {
 
-        return departmentName;
+        return "Super Department";
     }
     public String getTodaysWork()
     {

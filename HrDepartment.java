@@ -1,19 +1,21 @@
+package com.learning;
+
 public class HrDepartment extends SuperDepartment {
 
     public String departmentName()
     {
 
-        return " Hr Department ";
+        return "Hr Department";
     }
     public String getTodaysWork()
     {
 
-        return " Fill today’s timesheet and mark your attendance";
+        return "Fill today’s timesheet and mark your attendance";
     }
     public String getWorkDeadline()
     {
 
-        return " Complete by EOD ";
+        return "Complete by EOD";
     }
     public String doActivity()
     {

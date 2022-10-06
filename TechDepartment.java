@@ -1,3 +1,5 @@
+package com.learning;
+
 public class TechDepartment extends SuperDepartment {
 
     public String departmentName()
